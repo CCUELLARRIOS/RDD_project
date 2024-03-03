@@ -1,6 +1,6 @@
 # Regression Project
 
-This is the second projrect i did from concordia bootcamp.
+This is the second projrect I did from concordia bootcamp.
 
 ## Description
 
